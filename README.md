@@ -1,2 +1,2 @@
 # QA-projects
-Just a place with my testing files
+Just a place with my test files
